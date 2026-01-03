@@ -1,0 +1,5 @@
+conda create --name deeplearn
+activate deeplearn
+conda install python=3.10
+conda install spyder 
+pip install torch==2.1.0 torchvision==0.16.0 torchaudio==2.1.0
