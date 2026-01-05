@@ -34,3 +34,19 @@ This project is an AI-powered disaster rescue system that detects people in dron
 ```bash
 pip install ultralytics streamlit opencv-python supervision
 streamlit run app.py
+<img width="1920" height="882" alt="output_image" src="https://github.com/user-attachments/assets/3292535c-ec37-46c8-b327-5e1359d482d8" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
