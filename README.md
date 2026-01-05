@@ -1,4 +1,6 @@
- 🚁 Drone-Based Disaster Rescue System using YOLOv8
+ 🚁 Drone-Based Disaster Rescue System using YOLOv8 
+
+ <img width="1920" height="882" alt="output_image" src="https://github.com/user-attachments/assets/bbd9ec66-bd12-4d55-b7f3-1b2b53831719" /> 
  
  📌 Overview
 This project is an AI-powered disaster rescue system that detects people in drone-captured images and videos using YOLOv8. It helps rescue teams quickly identify survivors in disaster-affected areas.
@@ -34,7 +36,9 @@ This project is an AI-powered disaster rescue system that detects people in dron
 ```bash
 pip install ultralytics streamlit opencv-python supervision
 streamlit run app.py
-<img width="1920" height="882" alt="output_image" src="https://github.com/user-attachments/assets/3292535c-ec37-46c8-b327-5e1359d482d8" />
+
+
+
 
 
 
